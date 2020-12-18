@@ -1,0 +1,12 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "js常用代码",
+  "main": "index.js",
+  "repository": "https://github.com/xuxiao415/js-utils.git",
+  "author": "xuxiao415<xuxiao415@foxmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "ajv": "^7.0.1"
+  }
+}
